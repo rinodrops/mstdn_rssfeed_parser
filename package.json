@@ -4,6 +4,8 @@
         "@aws-sdk/client-dynamodb": "^3.338.0",
         "axios": "^1.4.0",
         "dotenv": "^16.0.3",
+        "html-to-text": "^9.0.5",
+        "twitter-text": "^3.1.0",
         "xml2js": "^0.5.0"
     }
 }
